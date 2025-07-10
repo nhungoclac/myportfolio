@@ -338,9 +338,8 @@ export default function Portfolio() {
       name: "Wordpress",
       icon: <Mail className="w-5 h-5" />,
       descriptions: [
-        "Automated email sequences và drip campaigns",
-        "List segmentation và personalization",
-        "A/B testing subject lines và content",
+        "Biết cài và sử dụng các plugin",
+        "Có thể tìm hiểu và chỉnh sửa giao diện bằng CSS",
       ],
     },
     {
