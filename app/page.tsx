@@ -445,7 +445,7 @@ export default function Portfolio() {
                 rel="noopener noreferrer"
               >
                 <Globe className="w-4 h-4 mr-2" />
-                Xem CV Digital Marketing
+                Xem CV 1
               </a>
             </Button>
             <Button asChild variant="outline" size="lg">
@@ -455,7 +455,7 @@ export default function Portfolio() {
                 rel="noopener noreferrer"
               >
                 <Globe className="w-4 h-4 mr-2" />
-                Xem CV Thương mại điện tử
+                Xem CV 2
               </a>
             </Button>
           </div>
