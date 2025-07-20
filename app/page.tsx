@@ -290,7 +290,7 @@ export default function Portfolio() {
       ],
     },
     {
-      name: "Nghiên cứu & phân tích",
+      name: "Khả năng tự học",
       icon: <TrendingUp className="w-5 h-5" />,
       descriptions: [
         "Tìm tài liệu, tự nghiên cứu kiến thức mới",
@@ -298,6 +298,13 @@ export default function Portfolio() {
         "Sẵn sàng học hỏi, làm quen với các công cụ mới để phục vụ cho công việc",
         "Luôn kiểm tra lại độ chính xác trước khi đưa ra công bố",
         "Đọc hiểu báo cáo số liệu, phân tích báo cáo,...",
+      ],
+    },
+    {
+      name: "Phân tích số liệu",
+      icon: <TrendingUp className="w-5 h-5" />,
+      descriptions: [
+        "Theo dõi hiệu suất bằng Meta Business, Tiktok Analytics, Google Analytics",
       ],
     },
     {
