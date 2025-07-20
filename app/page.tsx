@@ -625,7 +625,7 @@ export default function Portfolio() {
                     <div>
                       <p className="font-semibold text-gray-800">Địa chỉ</p>
                       <p className="text-gray-600">
-                        Quận 11, Thành phố Hồ Chí Minh
+                        Phường Phú Thọ, Thành phố Hồ Chí Minh (Quận 11 cũ)
                       </p>
                     </div>
                   </div>
