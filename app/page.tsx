@@ -439,7 +439,7 @@ export default function Portfolio() {
           <div className="flex justify-center space-x-4">
             <Button asChild variant="outline" size="lg">
               <a
-                href="https://drive.google.com/file/d/1zHtLpi0N6mln7Kkm-FOj8AzAh5tHchji/view?usp=sharing"
+                href="https://drive.google.com/file/d/1BteMJHl9ePPLNLIb4mEkyFwSPxk72NgU/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -448,11 +448,7 @@ export default function Portfolio() {
               </a>
             </Button>
             <Button asChild variant="outline" size="lg">
-              <a
-                href="https://drive.google.com/file/d/1zjSOy6VCDWFWhE8OXqR5cACXpRbokYXX/view?usp=sharing"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="#" target="_blank" rel="noopener noreferrer">
                 <Globe className="w-4 h-4 mr-2" />
                 Xem CV 2
               </a>
