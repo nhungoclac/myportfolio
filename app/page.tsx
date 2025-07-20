@@ -191,7 +191,7 @@ const projects = [
       "Viết bài",
       "Canva",
       "Meta Business",
-      "Tiktok Analytic",
+      "Tiktok Analytics",
     ],
     images: [
       "bku.png?height=300&width=400&text=Email+Funnel+Design",
