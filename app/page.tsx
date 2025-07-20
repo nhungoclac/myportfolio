@@ -94,13 +94,14 @@ const projects = [
     ],
   },
   {
-    title: "Đồ án Digital Marketing",
+    title: "Đồ án Digital Marketing và CRM",
     description: [
       {
         heading: "Tổng quan:",
         items: [
           'Fanpage: <a href="https://www.facebook.com/delifoodvietnam" target="_blank" rel="noopener noreferrer" class="text-blue-600 underline hover:text-blue-800">Delifood</a>',
-          "Phân tích khách hàng, lên ý tưởng chính, lập kế hoạch, lên lịch đăng bài, phân công thành viên, viết bài, thiết kế ảnh, theo dõi hiệu quả bằng Meta Business,...",
+          "Phân tích khách hàng, lên ý tưởng chính, lập kế hoạch, lên lịch đăng bài, phân công thành viên, viết bài, thiết kế ảnh, theo dõi hiệu quả bằng Meta Business, Tiktok Analytics, Google Analytics,...",
+          "Dùng Hubspot để tạo lead form và cài workflow tự động gửi email",
         ],
       },
       {
@@ -141,7 +142,8 @@ const projects = [
       "Canva",
       "Google Search Console",
       "Meta Business",
-      "Tiktok Analytic",
+      "Tiktok Analytics",
+      "Google Analytics",
     ],
     images: [
       "deliladi.png?height=300&width=400&text=SEO+Rankings+Report",
